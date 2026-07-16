@@ -12,13 +12,18 @@ Wireshark
 - Identified anomalies in handshake patterns
 
 ## Findings
-- Detected repeated DNS queries to unknown domains
-- TLS handshake failures indicating possible interception attempts
+- **Repeated DNS queries to a discontinued third‑party service were observed.**
+  - The client attempted multiple record types (A, AAAA, HTTPS, IPv6), generating unnecessary DNS noise caused by a webpage still referencing outdated scripts.
+
+- **Normal TCP behavior**, including clean session termination, new TCP handshakes to DNS servers, benign retransmissions, and small PSH/ACK packets consistent with DNS over TCP.
+
+- **Normal ARP resolution** between gateway and host, with no evidence of ARP spoofing or poisoning.
 
 ## Remediation
-- Block suspicious domains
-- Enforce TLS 1.2+
-- Validate certificate chains
+- Review and update webpages or applications referencing deprecated external scripts to reduce unnecessary DNS traffic.
+- Monitor DNS logs for recurring queries to discontinued or unreachable domains.
+- No further action required, as TCP and ARP behavior is normal and shows no indicators of compromise.
 
 ## Conclusion
-This project demonstrates the ability to detect anomalies and analyze encrypted traffic.
+This project demonstrates the ability to identify benign anomalies, distinguish normal encrypted traffic patterns, and validate network behavior using Wireshark.
+
