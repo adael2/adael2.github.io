@@ -31,4 +31,5 @@ I am a Computer Systems Analyst specializing in cybersecurity, application suppo
 
 ## Contact
 Email: adita0898@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/daniel-adalaid-carranza-alvarez-5bba6aa4/
