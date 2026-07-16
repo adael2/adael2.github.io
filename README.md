@@ -1,5 +1,5 @@
-👋 Hi, I’m @adael2
-👀 I’m interested in videogames.
-🌱 I’m currently learning Flutter
-💞️ I’m looking to collaborate with you :P
-📫 How to reach me adita0898@gmail.com
+- 👋 Hi, I’m @adael2
+- 👀 I’m interested in videogames. (I'm playing The legend of Zelda)
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate with you :P
+- 📫 How to reach me adita0898@gmail.com
