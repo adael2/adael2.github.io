@@ -12,4 +12,4 @@ It includes projects in:
 
 The site is published at:
 
-**https://danieladalid.github.io**
+**https://adael2.github.io**
