@@ -1,5 +1,3 @@
-# Daniel Adalaid Carranza Alvarez
-
 **Cybersecurity & Application Support Analyst**  
 Vancouver, BC  
 Work authorization: CUSMA – Computer Systems Analyst (LMIA‑exempt)
