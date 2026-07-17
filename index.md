@@ -21,7 +21,7 @@ I am a Computer Systems Analyst specializing in cybersecurity, application suppo
 
 ## Skills
 **Cybersecurity:** PKI, malware analysis, threat detection  
-**Tools:** Wfuzz, Wireshark, Suricata, PKI utilities  
+**Tools:** Wfuzz, Wireshark, Suricata, PKI utilities, ZeroTier  
 **Networking:** DNS, DHCP, TLS, TCP/IP  
 **Programming:** SQL, PL/SQL, Java, C#, .NET  
 **Cloud:** AWS (basic), Microsoft Entra  
