@@ -8,7 +8,7 @@ Work authorization: CUSMA – Computer Systems Analyst (LMIA‑exempt)
 
 ## About Me
 I am a Computer Systems Analyst specializing in cybersecurity, application support, and systems troubleshooting. I enjoy analyzing system behavior, identifying vulnerabilities, and improving the reliability and security of applications and infrastructure.  
-My portfolio includes hands‑on labs in network analysis, PKI, web security, OSINT, and system hardening.
+My portfolio includes hands‑on labs in network analysis, PKI, web security, OSINT, forensics, and system hardening.
 
 ---
 
@@ -21,7 +21,10 @@ My portfolio includes hands‑on labs in network analysis, PKI, web security, OS
 ### Web Security & Pentesting
 - [Web Application Fuzzing with Wfuzz](./projects/wfuzz.html)
 - [Burp Suite Web Security Lab](./projects/burp-suite.html)
+
+### Forensics & OSINT Analysis
 - [OSINT Investigation Lab](./projects/osint.html)
+- [Forensics Investigation Lab](./projects/forensics.html)
 
 ### Infrastructure & Systems
 - [Mini PKI Implementation](./projects/pki.html)
