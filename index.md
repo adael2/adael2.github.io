@@ -16,6 +16,7 @@ I am a Computer Systems Analyst specializing in cybersecurity, application suppo
 - [Mini PKI Implementation](./projects/pki.html)
 - [Windows 11 Hardening](./projects/hardening.html)
 - [ZeroTier Secure Networking](./projects/zerotier.html)
+- [Burp Suite](./projects/burp-suite.html)
 
 ---
 
